@@ -25,7 +25,7 @@ ok_username() {
 err_username() {
    ARROW_FG="016"
    ARROW_BG="160"
-   NEXT_ARROW_BG="183"
+   NEXT_ARROW_BG="013"
    NEXT_ARROW_FG="160"
    echo "$(arrow_start) %n $(arrow_end)"
 }
